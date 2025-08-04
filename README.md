@@ -1,4 +1,8 @@
 # 💫 About Me:
+## Hi I'm Timsheldon
+
+🔭 I’m currently a Web Dev, currently working on A responsive healthcare dashboard using React, Tailwind CSS, and Chart.js to visualize patient vitals and diagnostic history dynamically.
+
 🤝 I’m looking to collaborate on<br>Open-source React or full-stack projects that focus on improving user experience, accessibility, or solving real-world problems.<br>🙌 I’m looking for help with<br>Improving backend security practices (e.g., Spring Security, JWT) and scaling applications with better performance.<br>🌱 I’m currently learning<br>Advanced TypeScript patterns, backend development with Spring Boot, and DevOps basics like CI/CD pipelines.<br>💬 Ask me about<br>JavaScript, React, Spring Boot, REST APIs, building responsive UIs, and integrating Chart.js in real-world applications.
 
 

@@ -55,7 +55,7 @@ Full-stack responsive application
 * Scalable REST APIs
 * Mobile-first UI
 
-👉 [Add your live link here](https://thebushcollection.africa/)
+👉 [Live link](https://thebushcollection.africa/)
 👉 Add your repo link here
 
 ---
@@ -69,7 +69,7 @@ Data-driven UI for patient monitoring
 * Clean dashboard UX
 * Real-time vitals representation
 
-👉 [Add your live link here](https://patientdatadashboard.netlify.app/)
+👉 [Live link](https://patientdatadashboard.netlify.app/)
 👉 Add your repo link here
 
 ---

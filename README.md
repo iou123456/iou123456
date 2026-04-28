@@ -91,7 +91,7 @@ React · TypeScript · Tailwind CSS · Next.js
 
 ### Backend
 
-Java · Spring Boot · REST APIs · JWT Auth
+Django· REST APIs · JWT Auth
 
 ### Database
 
